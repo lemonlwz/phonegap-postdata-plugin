@@ -8,6 +8,7 @@ Install
 =======
 1.  copy `src` floder to you project `src` floder
 1.  copy `PostData.js` to `www` directory
+1.  add `<plugin name="PostData" value="org.apache.cordova.plugin.PostData"/>` to `res/xml/config.xml` XML file
 
 use
 ===
